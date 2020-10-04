@@ -1,0 +1,12 @@
+C:\Users\Prajval\source\repos\Line_Comparison_Problem_Day3\Line_Comparison_Problem_Day3\bin\Debug\netcoreapp3.1\Line_Comparison_Problem_Day3.exe
+C:\Users\Prajval\source\repos\Line_Comparison_Problem_Day3\Line_Comparison_Problem_Day3\bin\Debug\netcoreapp3.1\Line_Comparison_Problem_Day3.deps.json
+C:\Users\Prajval\source\repos\Line_Comparison_Problem_Day3\Line_Comparison_Problem_Day3\bin\Debug\netcoreapp3.1\Line_Comparison_Problem_Day3.runtimeconfig.json
+C:\Users\Prajval\source\repos\Line_Comparison_Problem_Day3\Line_Comparison_Problem_Day3\bin\Debug\netcoreapp3.1\Line_Comparison_Problem_Day3.runtimeconfig.dev.json
+C:\Users\Prajval\source\repos\Line_Comparison_Problem_Day3\Line_Comparison_Problem_Day3\bin\Debug\netcoreapp3.1\Line_Comparison_Problem_Day3.dll
+C:\Users\Prajval\source\repos\Line_Comparison_Problem_Day3\Line_Comparison_Problem_Day3\bin\Debug\netcoreapp3.1\Line_Comparison_Problem_Day3.pdb
+C:\Users\Prajval\source\repos\Line_Comparison_Problem_Day3\Line_Comparison_Problem_Day3\obj\Debug\netcoreapp3.1\Line_Comparison_Problem_Day3.AssemblyInfoInputs.cache
+C:\Users\Prajval\source\repos\Line_Comparison_Problem_Day3\Line_Comparison_Problem_Day3\obj\Debug\netcoreapp3.1\Line_Comparison_Problem_Day3.AssemblyInfo.cs
+C:\Users\Prajval\source\repos\Line_Comparison_Problem_Day3\Line_Comparison_Problem_Day3\obj\Debug\netcoreapp3.1\Line_Comparison_Problem_Day3.csproj.CoreCompileInputs.cache
+C:\Users\Prajval\source\repos\Line_Comparison_Problem_Day3\Line_Comparison_Problem_Day3\obj\Debug\netcoreapp3.1\Line_Comparison_Problem_Day3.dll
+C:\Users\Prajval\source\repos\Line_Comparison_Problem_Day3\Line_Comparison_Problem_Day3\obj\Debug\netcoreapp3.1\Line_Comparison_Problem_Day3.pdb
+C:\Users\Prajval\source\repos\Line_Comparison_Problem_Day3\Line_Comparison_Problem_Day3\obj\Debug\netcoreapp3.1\Line_Comparison_Problem_Day3.genruntimeconfig.cache
